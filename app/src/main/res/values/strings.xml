@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="play_music">Music is playing</string>
+    <string name="adjust_sound">Move Seekbar for sound</string>
+</resources>
