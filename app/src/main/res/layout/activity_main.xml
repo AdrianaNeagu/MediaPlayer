@@ -25,6 +25,7 @@
     </LinearLayout>
 
     <TextView
+        android:id="@+id/seekbar_volume_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
@@ -33,11 +34,10 @@
         android:textStyle="bold" />
 
     <SeekBar
-        android:id="@+id/seek_bar"
+        android:id="@+id/seekbar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:max="100"
-        android:progress="20" />
+        android:max="100" />
 
 </LinearLayout>
